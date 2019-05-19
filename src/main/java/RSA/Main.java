@@ -7,7 +7,6 @@ import java.security.spec.RSAPrivateKeySpec;
 import java.security.spec.RSAPublicKeySpec;
 
 public class Main {
-
     public static void main(String[] args) throws IOException {
         RSAExample rsaObj = new RSAExample();
         try {
